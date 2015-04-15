@@ -1,4 +1,4 @@
 # concrete5-database-migration
 
 ## Requirement
-[PyMySQL](://github.com/PyMySQL/PyMySQL)
+[PyMySQL](http://github.com/PyMySQL/PyMySQL)
